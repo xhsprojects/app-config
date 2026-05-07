@@ -1,0 +1,9 @@
+{
+    "_comment": "EDIT FILE INI KALAU MAU GANTI DOMAIN - lalu push ke GitHub. Tidak perlu rebuild APK.",
+    "domain": "https://app.xiuplay.top",
+    "fallbacks": [
+        "https://xiu-play.vercel.app"
+    ],
+    "version": "2026-01-15",
+    "message": "Initial config — domain utama xiuplay.top"
+}
