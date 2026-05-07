@@ -1,4 +1,0 @@
-{
-    "domain": "https://xiuplay-darurat.vercel.app",   ← GANTI DI SINI
-    "fallbacks": ["https://app.xiuplay.top"]
-}
